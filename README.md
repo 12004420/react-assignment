@@ -1,4 +1,5 @@
-React Assignment---------------------------------Output
+# react-assignment
 
+# Output Screen
+![React App - Google Chrome 2023-01-19 17-46-18](https://user-images.githubusercontent.com/82077595/213442110-542f6ab1-315d-4d40-8dca-1ee519eaedcd.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/82250898/213498579-e3fd1b13-52a5-4132-92cb-07b26b0328e5.gif)
